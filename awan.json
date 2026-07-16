@@ -1,0 +1,27 @@
+{
+  "handle": "qcxint-crypto",
+  "name": "qcxint",
+  "role": "crypto builder · bot crafter · airdrop hunter",
+  "location": "Kepler-452b",
+  "stack": "Python, Node, Rust & automation",
+  "streak": 1,
+  "song": "Interstellar Theme",
+  "artist": "Hans Zimmer",
+  "lyrics": [
+    "dust on the launchpad, still going",
+    "code in the dark, wallets glowing",
+    "hekhek watches from the stars"
+  ],
+  "output": "assets/awan.gif",
+  "scenes": [
+    { "act": "wave", "say": "yo! i'm {name}" },
+    { "act": "present", "say": "{role}" },
+    { "act": "stroll", "say": "based on {location}" },
+    { "act": "rocket", "say": "i ship bots with {stack}" },
+    { "act": "launch", "say": "...then watch 'em farm" },
+    { "act": "campfire", "say": "streak {streak} · still building" },
+    { "act": "sing" },
+    { "act": "soccer", "say": "touch grass? nah, touch chain" },
+    { "act": "sleep", "say": "okay... nap time, zzz" }
+  ]
+}

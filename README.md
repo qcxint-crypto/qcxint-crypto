@@ -1,76 +1,84 @@
-<h1 align="center">Hi Tod 👋
-  <p>
-<p><a href="https://github.com/qcxint-crypto"><img src="https://komarev.com/ghpvc/?username=qcxint-crypto&style=for-the-badge&abbreviated=true&color=blue" alt="Profile views"/></a></p>
-</h1>
-
+<!--
+  Profile README for qcxint-crypto.
+  awan.gif is generated from awan.json via .github/workflows/awan.yml
+-->
 
 <div align="center">
 
-![github contribution dinosaur animation](https://raw.githubusercontent.com/qcxint-crypto/qcxint-crypto/main/grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/qcxint-crypto/qcxint-crypto/main/grid-snake-light.svg#gh-light-mode-only)
+<img src="assets/awan.gif" alt="awan profile banner" width="680" />
 
-<div style="text-align: center;">
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A13AFF&center=true&vCenter=true&width=435&lines=Join+Here+Tod" alt="Typing SVG" />
-    </a>
-  </p>
-</div>
+<br/>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div style="text-align: left; flex: 1;">
-    <p>
-      <a href="https://t.me/anakmudabisakaya_airdrop">
-        <img src="https://img.shields.io/badge/ANAKMUDABISAKAYA_%7C_Subscribe-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
-      </a>
-    </p>
-  </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A13AFF&center=true&vCenter=true&width=520&lines=yo+tod+%C2%B7+qcxint+here;crypto+%C2%B7+bots+%C2%B7+automation;I+had+a+cat+named+hekhek" alt="typing" />
+
+<br/>
+
+<a href="https://github.com/qcxint-crypto">
+  <img src="https://komarev.com/ghpvc/?username=qcxint-crypto&style=for-the-badge&abbreviated=true&color=blueviolet" alt="profile views" />
+</a>
+&nbsp;
+<a href="https://t.me/anakmudabisakaya_airdrop">
+  <img src="https://img.shields.io/badge/ANAKMUDABISAKAYA-Subscribe-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
+</a>
+&nbsp;
+<a href="https://x.com/qcxint_">
+  <img src="https://img.shields.io/badge/X-@qcxint_-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
+</a>
+
 </div>
 
 ---
-<div style="text-align: center;">
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A13AFF&center=true&vCenter=true&width=435&lines=My+GitHub+Stats+and+Top+Languages" alt="Typing SVG" />
-    </a>
-  </p>
-</div>
 
-![qcxint's github stats](https://github-readme-stats.vercel.app/api?username=qcxint-crypto&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qcxint-crypto&layout=donut&theme=tokyonight&show_icons=true)
+### about
+
+```text
+handle   : qcxint-crypto
+role     : crypto builder · bot crafter · airdrop hunter
+stack    : Python · Node · Rust · automation
+location : Kepler-452b
+status   : shipping bots, farming seasons, breaking things
+```
+
+- currently shipping automation & airdrop tooling
+- open to collab on bots, scrapers, chain scripts
+- find me on telegram / X
 
 ---
-If you like my bots or scripts and want to support me (no pressure though 😂), you can through:
 
-BTC:
-```bash
-1MPoc8x5sCpcQWitZBqXHLbDWhCH63LSxe
-```
-ERC-20:
-```bash
-0x59dcbc004570d6fa3e7e79fed6966818020c2c5a
-```
-TRC-20:
-```bash
-TYBVhjCd4cELdRX49GLA5MgiRgkJC1WVvM
-```
-SOLANA:
-```bash
-CBPDerYvymhQVgtUY1TkwATiKxRCbgBB8cvMLXqeMUSE
-```
+### stats
 
-For Indonesian People, come [here](https://saweria.co/rananwari). Thank you everyone ❤️
+<div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=qcxint-crypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A13AFF&icon_color=58A6FF&text_color=C9D1D9" alt="github stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qcxint-crypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A13AFF&text_color=C9D1D9" alt="top langs" />
 
-<!--
-**qcxint-crypto/qcxint-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qcxint-crypto&theme=tokyonight&hide_border=true&background=0D1117&ring=A13AFF&fire=58A6FF&currStreakLabel=A13AFF" alt="streak" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### support
+
+If you like the bots or scripts and want to support (no pressure), send here:
+
+| chain | address |
+|:------|:--------|
+| **BTC** | `1MPoc8x5sCpcQWitZBqXHLbDWhCH63LSxe` |
+| **ERC-20** | `0x59dcbc004570d6fa3e7e79fed6966818020c2c5a` |
+| **TRC-20** | `TYBVhjCd4cELdRX49GLA5MgiRgkJC1WVvM` |
+| **SOLANA** | `CBPDerYvymhQVgtUY1TkwATiKxRCbgBB8cvMLXqeMUSE` |
+
+Indo? [saweria.co/rananwari](https://saweria.co/rananwari) · thank you
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A13AFF&height=100&section=footer" width="100%" alt="" />
+
+<sub>powered by <a href="https://github.com/codewithwan/awan">awan</a> · loop regenerates on push to <code>awan.json</code></sub>
+
+</div>
